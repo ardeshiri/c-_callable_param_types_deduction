@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623500526 source:/home/arash/Code/codeblocks/callable_args_deduction/main.cpp
+	<iostream>
+	<typeinfo>
+	<functional>
+
